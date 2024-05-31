@@ -1,2 +1,2 @@
-# Using_ollama
-Using Ollama
+# Langchain Chatbot using Ollama
+
